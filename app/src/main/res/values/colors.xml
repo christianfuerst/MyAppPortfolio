@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary" type="color">#BA68C8</item>
+    <item name="primary_dark" type="color">#9C27B0</item>
+    <item name="accent" type="color">#F3E5F5</item>
+    <item name="windowBackground" type="color">#F3E5F5</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/primary</item>
+        <item>@color/primary_dark</item>
+        <item>@color/accent</item>
+        <item>@color/windowBackground</item>
+    </integer-array>
+
+</resources>

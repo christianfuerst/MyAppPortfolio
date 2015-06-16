@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein App Portfolio</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="header_text">Meine Nanodegree Apps!</string>
+    <string name="toast">Dieser Button startet</string>
+    <string name="action_quit">Beenden</string>
+</resources>
